@@ -1,5 +1,5 @@
-# Womanhood-DevSpace
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Aarushi21/Womanhood_Devspace?logo=github&style=social)](https://github.com/Aarushi21/) [![GitHub last commit](https://img.shields.io/github/last-commit/Aarushi21/Womanhood_Devspace?style=social&logo=git)](https://github.com/Aarushi21/) [![GitHub stars](https://img.shields.io/github/stars/Aarushi21/Womanhood_Devspace?style=social)](https://github.com/Aarushi21/.../stargazers)
+# Submission for DevSpace
+[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Aarushi21/Womanhood_DevSpace?logo=github&style=social)](https://github.com/Aarushi21/) [![GitHub last commit](https://img.shields.io/github/last-commit/Aarushi21/Womanhood_DevSpace?style=social&logo=git)](https://github.com/Aarushi21/) [![GitHub stars](https://img.shields.io/github/stars/Aarushi21/Womanhood_DevSpace?style=social)](https://github.com/Aarushi21/.../stargazers)
 
 <p align="center">
 <a href="">
@@ -7,9 +7,9 @@
 </a>
 </p>
 
-# WOMANHOOD - Your health is an investment not an expense
+## WOMANHOOD - Your health is an investment not an expense
 
-## Team name -  | Team Code- 6f1a58417a
+## Team name -  BOOLEAN PANDITS
 
 ## Team-Members:
 - [Aarushi Shrestha](https://github.com/Aarushi21)
@@ -85,21 +85,21 @@ Through Womanhood, we aim at solving this barrier for women to connect with doct
 - Launch any browser window and search localhost/Womanhood.
 
 ### Screenshots
-![](https://github.com/yasharthratan/WOMANHOOD/blob/main/ss.PNG)
+![](https://github.com/Aarushi21/Womanhood_DevSpace/blob/main/ss.PNG)
 
-![](https://github.com/yasharthratan/WOMANHOOD/blob/main/ff.PNG)
+![](https://github.com/Aarushi21/Womanhood_DevSpace/blob/main/ff.PNG)
 
-![](https://github.com/yasharthratan/WOMANHOOD/blob/main/img1%20(1).PNG)
+![](https://github.com/Aarushi21/Womanhood_DevSpace/blob/main/img1%20(1).PNG)
 
-![](https://github.com/yasharthratan/WOMANHOOD/blob/main/img2%20(1).PNG)
+![](https://github.com/Aarushi21/Womanhood_DevSpace/blob/main/img2%20(1).PNG)
 
-![](https://github.com/yasharthratan/WOMANHOOD/blob/main/img3%20(1).PNG)
+![](https://github.com/Aarushi21/Womanhood_DevSpace/blob/main/img3%20(1).PNG)
 
-![](https://github.com/yasharthratan/WOMANHOOD/blob/main/img4%20(1).PNG)
+![](https://github.com/Aarushi21/Womanhood_DevSpace/blob/main/img4%20(1).PNG)
 
-![](https://github.com/yasharthratan/WOMANHOOD/blob/main/img5%20(1).PNG)
+![](https://github.com/Aarushi21/Womanhood_DevSpace/blob/main/img5%20(1).PNG)
 
-![](https://github.com/yasharthratan/WOMANHOOD/blob/main/img6%20(1).PNG)
+![](https://github.com/Aarushi21/Womanhood_DevSpace/blob/main/img6%20(1).PNG)
 
 
 
