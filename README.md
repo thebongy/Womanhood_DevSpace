@@ -19,7 +19,7 @@
 - [Harsh Malani](https://github.com/Harsh-1309)
 - [Pearl Motwani](https://github.com/)
 
-## Track Chosen - Healthcare
+## Track Chosen - OPEN INNOVATION
 
 ## Problem Statement
 There is a lot of fear of the stigma associated with reproductive health services, women often avoid making use of such services. This stigma imposes a great deal of mental stress, fear, and depression on patients and causes delays in the diagnosis and treatment of their conditions. The importance of womenhealth is not just very low on priority, but overlooked at a level that there is alot of delay for diagonsis of even severe health issues such as PCOS and breast cancer, leave aside the loads of generic diseases. Women should never feel ashamed about their health concerns whether that be their periods, reproductive health, menopause or something else.
