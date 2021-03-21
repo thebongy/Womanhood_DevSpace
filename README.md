@@ -22,9 +22,11 @@
 ## Track Chosen - OPEN INNOVATION
 
 ## Problem Statement
+
 There is a lot of fear of the stigma associated with reproductive health services, women often avoid making use of such services. This stigma imposes a great deal of mental stress, fear, and depression on patients and causes delays in the diagnosis and treatment of their conditions. The importance of womenhealth is not just very low on priority, but overlooked at a level that there is alot of delay for diagonsis of even severe health issues such as PCOS and breast cancer, leave aside the loads of generic diseases. Women should never feel ashamed about their health concerns whether that be their periods, reproductive health, menopause or something else.
 
 ## Our solution
+
 Through Womanhood, we aim at solving this barrier for women to connect with doctor and try to reduce the errors and hassle in the diagnosis of the ailments. Womanhood is an initiative through which we want to build an all-in-one women health platform, which diagnoses alot of issues, especially women specific ones and help raise awareness for its treatment and management. The details have been given in the features.
 
 ## Challenges We Faced 
@@ -85,6 +87,7 @@ Through Womanhood, we aim at solving this barrier for women to connect with doct
 - Launch any browser window and search localhost/Womanhood.
 
 ### Screenshots
+
 ![](https://github.com/Aarushi21/Womanhood_DevSpace/blob/main/ss.PNG)
 
 ![](https://github.com/Aarushi21/Womanhood_DevSpace/blob/main/ff.PNG)
