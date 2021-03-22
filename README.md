@@ -11,6 +11,8 @@
 
 ## Team name -  BOOLEAN PANDITS
 
+## Won overall 3rd position in DEVSPACE 2021
+
 ## Team-Members:
 - [Aarushi Shrestha](https://github.com/Aarushi21)
 - [Yasharth Tripathi](https://github.com/yasharthratan)
